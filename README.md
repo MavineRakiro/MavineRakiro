@@ -2,15 +2,14 @@
 []
 
 ### Hi there 👋
-MavineRakiro
 
 ## My name is Mavine Rakiro and I am not a martian. Survival is my skill. Reading is my escape. Coding is my art.
-🔭 I’m currently working on becoming a better developer than I was yesterday
-🌱 I’m currently learning anything and everything machine learning
-👯 I’m looking to collaborate on machine learning projects
-📫 How to reach me: mavinesam@gmail.com
+- 🔭 I’m currently working on becoming a better developer than I was yesterday
+- 🌱 I’m currently learning anything and everything machine learning
+- 👯 I’m looking to collaborate on machine learning projects
+- 📫 How to reach me: mavinesam@gmail.com
 
-
+- ⚡ Fun fact: ... MEMENTO MORI
 
 
 
