@@ -2,7 +2,7 @@
 []
 
 ### Hi there 👋
-MavineRakirp
+MavineRakiro
 
 ## My name is Mavine Rakiro and I am not a martian. Survival is my skill. Reading is my escape. Coding is my art.
 🔭 I’m currently working on becoming a better developer than I was yesterday
