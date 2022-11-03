@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## My name is Mavine Rakiro and I am not a martian. Survival is my skill. Reading is my escape. Engineering is my art.
-- 🔭 I’m currently working on becoming a better developer than I was yesterday
-- 🌱 I’m currently learning anything and everything machine learning
-- 👯 I’m looking to collaborate on machine learning projects
+- 🔭 I’m currently working on becoming a better engineer than I was yesterday
+- 🌱 I’m currently learning anything and everything on network engineering.
+- 👯 I’m looking to collaborate on software based network engineering projects
 - 📫 How to reach me: mavinesam@gmail.com
 
 - ⚡ Fun fact: ... MEMENTO MORI
